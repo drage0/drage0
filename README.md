@@ -1,4 +1,6 @@
-### Hi there 👋
+![tobi](./tobi.png)
+
+## Hey, let me tell you something... Y'all are the best!
 
 <!--
 **drage0/drage0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
