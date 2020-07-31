@@ -1,4 +1,4 @@
-![tobi](https://raw.githubusercontent.com/drage0/drage0/master/tobi.jpg)
+![tobi](https://raw.githubusercontent.com/drage0/drage0/master/tobi_scaled.jpg)
 
 ## Hey, let me tell you something... Y'all the best!
 
