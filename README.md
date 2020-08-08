@@ -1,6 +1,6 @@
 ![tobi](https://raw.githubusercontent.com/drage0/drage0/master/tobi_scaled.jpg)
 
-## Hey, let me tell you something... Y'all the best!
+## Еј, добар си ти)
 
 <!--
 **drage0/drage0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
